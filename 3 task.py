@@ -1,3 +1,4 @@
+# Демкин Алексей 368096
 import cv2
 import time
 
